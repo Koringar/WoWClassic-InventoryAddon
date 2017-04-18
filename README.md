@@ -1,0 +1,1 @@
+# WoWClassic-InventoryAddon
